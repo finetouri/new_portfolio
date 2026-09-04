@@ -4,6 +4,7 @@ image {width: 50%;
     top: 20px;
     right: 20px;}
 body {margin: 10px;}
+.header {position: fixed;  top: 0; left: 0; width: 100%; z-index: 100;background-color: #00bfff;}
 .name {background-color: #008b8b;}
 .hoby {background-color: #66bdaa;}
 .interest {background-color: #00bfff;}
