@@ -1,11 +1,11 @@
-.image {
+image {
     width: 50%;
     height: auto;
     position:absolute;
     top: 20px;
     right: 20px;
 }
-.body {
+body {
     margin: 10px;
 }
 .name {
