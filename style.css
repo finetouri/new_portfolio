@@ -1,6 +1,6 @@
 .image {
     width: 50%;
-    height: 130px;
+    height: auto;
     position:absolute;
     top: 20px;
     right: 20px;
