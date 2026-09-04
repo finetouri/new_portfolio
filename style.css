@@ -1,6 +1,9 @@
 .image {
+    width: 50%;
     position:absolute;
     top: 20px;
     right: 20px;
-    width: 50%;
+}
+body {
+    margin: 10px;
 }
