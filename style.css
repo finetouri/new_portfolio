@@ -1,19 +1,9 @@
-image {
-    width: 50%;
+image {width: 50%;
     height: auto;
     position:absolute;
     top: 20px;
-    right: 20px;
-}
-body {
-    margin: 10px;
-}
-.name {
-    background-color: #008b8b;
-}
-.hoby {
-    background-color: #66bdaa;
-}
-.interest {
-    background-color: #00bfff;
-}
+    right: 20px;}
+body {margin: 10px;}
+.name {background-color: #008b8b;}
+.hoby {background-color: #66bdaa;}
+.interest {background-color: #00bfff;}
